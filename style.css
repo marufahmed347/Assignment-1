@@ -455,32 +455,6 @@
         font-size: 13px;
     }
 
-    /* Responsive for mobile */
-
-    @media (max-device-width: 767px) {
-        .nav {
-             padding: 2px 30px;
-        }
-        
-        .logo {
-            width: 140px;
-        }
-        
-        .nav ul {
-            display:none;
-        }
-        
-        .nav .buttons {
-             gap: 1px;
-        }
-        
-        .nav .buttons button {
-            padding: 5px 7px;
-            font-size: 12px;
-            
-        }
-            
-    }
 
     /* responsive for mobile */
 
